@@ -42,9 +42,9 @@ class _SigninScreenState extends State<SigninScreen> {
         // Judul AppBar
         title: const Text("Sign In"),
         // Menempatkan judul di tengah
-        centerTitle: true,
+        // centerTitle: true,
         // Warna latar belakang AppBar
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.deepPurple,
       ),
       // TODO : 3  Pasang Body
       // Body adalah konten utama halaman
